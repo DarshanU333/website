@@ -1,4 +1,4 @@
-import {products} from '../data/products.js';
+import {products} from './data/products.js';
 import {cart, deletebtn , delivarydate, cartquantity,orderedcart,addtocart} from './cart.js';
 import DayJs from 'https://unpkg.com/supersimpledev@8.5.0/dayjs/esm/index.js' ;
 import {delivaryoption} from './delivary.js'
